@@ -1,0 +1,2 @@
+left click and drag
+right click rotates

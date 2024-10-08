@@ -1,0 +1,9 @@
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\bin\Debug\Tower Fall.dll
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\bin\Debug\Tower Fall.pdb
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\obj\Debug\Tower Fall.csproj.AssemblyReference.cache
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\obj\Debug\Tower Fall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\obj\Debug\Tower Fall.AssemblyInfoInputs.cache
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\obj\Debug\Tower Fall.AssemblyInfo.cs
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\obj\Debug\Tower Fall.csproj.CoreCompileInputs.cache
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\obj\Debug\Tower Fall.dll
+C:\Users\dpali\Documents\Godot\Projects\TowerFall\.mono\temp\obj\Debug\Tower Fall.pdb
