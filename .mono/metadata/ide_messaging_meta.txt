@@ -1,0 +1,2 @@
+﻿50583
+C:/Users/dpali/Documents/Godot/Godot_v3.6-stable_mono_win64/Godot_v3.6-stable_mono_win64/Godot_v3.6-stable_mono_win64.exe

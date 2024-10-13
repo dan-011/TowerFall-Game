@@ -19,7 +19,7 @@ public class GameLevel : Node
 //      
 //  }
 
-	private void OnGetBlock(var block)
+	private void OnGetBlock(int block)
 	{
 		// Replace with function body.
 	}
